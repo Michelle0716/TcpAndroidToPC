@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TcpApp/TcpApp.iml" filepath="$PROJECT_DIR$/TcpApp/TcpApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TcpClientToPc.iml" filepath="$PROJECT_DIR$/TcpClientToPc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WiFihotspot.iml" filepath="$PROJECT_DIR$/WiFihotspot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usb1App/app.iml" filepath="$PROJECT_DIR$/Usb1App/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifiApp/app.iml" filepath="$PROJECT_DIR$/wifiApp/app.iml" />
+    </modules>
+  </component>
+</project>
