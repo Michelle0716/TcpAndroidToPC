@@ -1,2 +1,3 @@
-# WiFihotspot
-A demonstration of how to develop an example of WiFi.
+本项目主要是实现局域网下，安卓手机和电脑进行TCP通信的过程。
+代码附上客户端-android
+        服务端-java后台
