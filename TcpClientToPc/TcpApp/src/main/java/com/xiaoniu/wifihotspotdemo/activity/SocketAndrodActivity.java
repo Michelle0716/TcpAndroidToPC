@@ -103,7 +103,7 @@ public class SocketAndrodActivity extends Activity {
                 sendMsg = input.getText().toString();
                 msg1.what = SENDING;
                 handler.sendMessage(msg1);
-
+                //socket.getOutputStream  out是个字符输出流，后面true说明执行后自动刷新
                 PrintWriter out = new PrintWriter(
                         new BufferedWriter(new OutputStreamWriter(
                                 socket.getOutputStream())), true);
